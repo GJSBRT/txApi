@@ -12,7 +12,7 @@ With this you can keep all your bans in one place and make moderating way easier
 
 
 ## Exports
-- (txApi:banPlayer)[#txApi:banPlayer]
+- txApi:banPlayer
 
 ### txApi:banPlayer
 With this export your can ban players (duh). 
