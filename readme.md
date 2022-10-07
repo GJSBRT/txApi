@@ -28,3 +28,9 @@ Here is an example:
 ```lua
 exports['txApi']:txApi_banPlayer(69, "It's not your lucky day! You have been banned with txAdmin.")
 ```
+
+## Todo
+Here is a todo list of things that need to be added. Feel free to contribute by making a pull request 😊.
+- Improve authentication with txAdmin by keeping the session active.
+- Add (debug) log function
+- Add more exports :)
