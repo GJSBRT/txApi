@@ -1,0 +1,9 @@
+{
+    "debug": false,
+    "txAdmin": {
+        "url": "http://localhost",
+        "port": 40120,
+        "username": "txapi",
+        "password": "averysecurepassword"
+    }
+}

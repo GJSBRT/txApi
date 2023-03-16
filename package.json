@@ -1,0 +1,23 @@
+{
+  "name": "txapi",
+  "version": "1.0.0",
+  "description": "A temporary solution for there being no txAdmin API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GJSBRT/txApi.git"
+  },
+  "keywords": [
+    "txadmin",
+    "api"
+  ],
+  "author": "GJSBRT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GJSBRT/txApi/issues"
+  },
+  "homepage": "https://github.com/GJSBRT/txApi#readme"
+}
